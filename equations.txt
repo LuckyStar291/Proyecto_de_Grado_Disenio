@@ -1,0 +1,10 @@
+﻿"D2@Croquis1" = "largo_tot"
+"D3@Croquis1"=150
+"D1@Croquis1" = "ancho_tot"
+"venesta"= 4'grosor de la venesta
+"policarbonato"= 4'grosor del policarbonato
+"carton_trupan"= 3'grosor del carton trupan caso laser
+"ancho_tot"= 310'ancho tot sin llantas
+"largo_tot"= 400'largo tot sin camera
+"D1@Saliente-Extruir1"="venesta"
+"D9@Croquis1"="policarbonato"
