@@ -5,7 +5,6 @@
 "largo_tot"= 400'largo tot sin camera
 "alto_estimado"= 300'alto estimado sin lidar
 "D2@Croquis2"="alto_estimado"
-"D1@Croquis2"="largo_tot"
 "altoparaqpaselabotella"= 75'alto estimado para que encaje la botella
 "alturaruedaloca"= 22
 "anchoruedaloca"= 35
